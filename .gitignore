@@ -1,0 +1,8 @@
+chat_messages.log
+*.log
+__pycache__/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+.venv/
